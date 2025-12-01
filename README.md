@@ -103,7 +103,4 @@ No special transformations or adjustments are required after export.
 * Blender for modeling
 * RobotExpressive model from the official Three.js sample assets
 
----
 
-If you want, I can also create:
-A GitHub-optimized README, a PDF project report, a shorter submit-ready summary, or diagrams for the camera and collision systems.
